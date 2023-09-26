@@ -1,0 +1,10 @@
+const CartItemsActionTypes = {
+  GET_CART: "GET_CART",
+  ADD_TO_CART: "ADD_TO_CART",
+  REMOVE_FROM_CART: "REMOVE_FROM_CART",
+  RESET_CART: "RESET_CART",
+  ADD_TO_CHECKOUT: "ADD_TO_CHECKOUT",
+  RESET_CHECKOUT: "RESET_CHECKOUT"
+};
+
+export default CartItemsActionTypes;
